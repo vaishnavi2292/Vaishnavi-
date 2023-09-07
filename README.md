@@ -1,13 +1,11 @@
 ![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
 
-<h1 align="center">Hi 👋, I'm Dalvi Moin</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as an Intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="MoinDalvs" height="20" width="60" /></a>
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
@@ -15,12 +13,11 @@
 
 - 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
 
-- 📫 You can reach me on my email id **moindalvs@gmail.com**
+- 📫 You can reach me on my email id **patilvaishnavi421@gmail.com**
 
 ## `Projects:`
-### [Forecasting CO2 Emissions Deployment](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
-### [Resume Screening and Parser](https://moindalvs-resume-upload-containter-resume-classification-kflzeg.streamlitapp.com/)
-### Resume Classification [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
+### [Reliance Stock Market Prediction] (https://github.com/vaishnavi2292/Reliance-Stock-Market-Analysis-)
+### [Linkedin-data-analyst-job-analysis](https://github.com/vaishnavi2292/Linkedin-data-analyst-job-analysis)
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
@@ -44,11 +41,10 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ## `Connect with me:`
 <p align="left">
-<a href="https://www.linkedin.com/in/moin-dalvi-277b0214a" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="MoinDalvs" height="50" width="50" /></a>
-<a href="https://www.kaggle.com/moindalvi" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="MoinDalvs" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCN7xdRsVxEaaH5H0f3eNNmg" target="blank"><img align="center" src="https://img.icons8.com/color/344/youtube-play.png" alt="MoinDalvs" height="50" width="50" /></a>
-<a href="https://twitter.com/DalvsHubot" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a>
-<a href="mailto:moindalvs@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaishnavi-patil-2b978b20b" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Vaishnavi Patil" height="50" width="50" /></a>
+<a href="https://www.kaggle.com/vaishnavi2292" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Vaishnavi Patil" height="40" width="40" /></a>
+<a href="https://twitter.com/Vaishna25645386" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a>
+<a href="https://mail.google.com/mail/u/1/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
@@ -61,35 +57,8 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 - [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
 
-## `📈 GitHub Activity Graph:`
-[![Moin Dalvs GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MoinDalvs&&theme=react-dark)](https://github.com/MoinDalvs)
 
-## `Github Status:` 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MoinDalvs&label=Profile%20views&color=0e75b6&style=circle" alt="MoinDalvs" width="16%" /> </p>
-<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoinDalvs&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="MoinDalvs" />
-</p>
-<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MoinDalvs&show_icons=true&theme=tokyonight"/> </p>
-<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=MoinDalvs&theme=neon-palenight" width="50%"  alt="streak"> </p>
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=discord" alt="MoinDalvs" />
-</a> </p>
 
-<div style="align:center;
-            display:fill;
-            border-radius: false;
-            border-style: solid;
-            border-color:#000000;
-            border-style: false;
-            border-width: 2px;
-            color:#CF673A;
-            font-size:15px;
-            font-family: Georgia;
-            background-color:#E8DCCC;
-            text-align:center;
-            letter-spacing:0.1px;
-            padding: 0.1em;">
 
 **<h2>♡ Thank you for taking the time ♡**
 
