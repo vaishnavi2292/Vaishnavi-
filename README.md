@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
+![Linkedin_Cover_-_Data_Scientist_py4mog](https://svitla.com/uploads/ckeditor/Data-Science-Algorithms-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
