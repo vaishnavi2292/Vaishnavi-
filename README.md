@@ -18,8 +18,9 @@
 ## `Projects:`
 ### [Reliance Stock Market Prediction] (https://github.com/vaishnavi2292/Reliance-Stock-Market-Analysis-)
 ### [Linkedin-data-analyst-job-analysis](https://github.com/vaishnavi2292/Linkedin-data-analyst-job-analysis)
+### [Twitter Semantic Analysis] ()
 
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+<img align="right" alt="code"  height="380" width="400" src = "https://camo.githubusercontent.com/ffad05027527ccea738d309a899764a2734df6acb639fc71dad0eedd83104555/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3534323937392f73637265656e73686f74732f333030303037362f73617261682d776f726b696e672d6f6e2d636f6d70757465722e676966"> 
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
@@ -45,6 +46,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <a href="https://www.kaggle.com/vaishnavi2292" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Vaishnavi Patil" height="40" width="40" /></a>
 <a href="https://twitter.com/Vaishna25645386" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a>
 <a href="https://mail.google.com/mail/u/1/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<a href="https://www.instagram.com/vaishnavi_2292/" target="blank"><img align="center" src="https://i.pinimg.com/originals/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg" alt="Vaishnavi Patil" height="50" width="50" /></a>
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
