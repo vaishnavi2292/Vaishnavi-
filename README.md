@@ -16,7 +16,7 @@
 ## `Projects:`
 ### [Reliance Stock Market Prediction] (https://github.com/vaishnavi2292/Reliance-Stock-Market-Analysis-)
 ### [Linkedin-data-analyst-job-analysis](https://github.com/vaishnavi2292/Linkedin-data-analyst-job-analysis)
-### [Twitter Semantic Analysis] ()
+### [Twitter Semantic Analysis] (https://github.com/vaishnavi2292/Twitter-Semantics-Analysis)
 
 <img align="right" alt="code"  height="380" width="400" src = "https://camo.githubusercontent.com/ffad05027527ccea738d309a899764a2734df6acb639fc71dad0eedd83104555/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3534323937392f73637265656e73686f74732f333030303037362f73617261682d776f726b696e672d6f6e2d636f6d70757465722e676966"> 
 
