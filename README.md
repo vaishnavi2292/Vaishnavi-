@@ -5,13 +5,11 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🌱 I’m currently learning **Data Analysis**
-
 - 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
 - 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
+- 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Advanced Excel, SQL, Power Bi, Tableau, Artificial intellegence and Deep learning**
 
 - 📫 You can reach me on my email id **patilvaishnavi421@gmail.com**
 
