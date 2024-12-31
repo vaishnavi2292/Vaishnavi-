@@ -1,13 +1,13 @@
 ![Linkedin_Cover_-_Data_Scientist_py4mog](https://svitla.com/uploads/ckeditor/Data-Science-Algorithms-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate Data Analyst Enthusiast</h3>
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
+- 👯 I’m looking to collaborate on **on all topics related to Data Analysis, Machine Learning and Artificial Intellegence**
 
-- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
+- 💬 Ask me about **Data Analysis, Machine Learning and Artificial Intelligence**
 
 - 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Advanced Excel, SQL, Power Bi, Tableau, Artificial intellegence and Deep learning**
 
